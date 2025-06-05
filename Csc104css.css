@@ -1,0 +1,17 @@
+body {
+    background-color: lightsteelblue;
+    font-family: sans-serif;
+}
+h2 {
+    color: indigo;
+}
+
+footer {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
