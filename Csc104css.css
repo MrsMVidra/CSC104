@@ -11,10 +11,18 @@ h2 {
     color: indigo;
     text-align: center;
 }
-h3  {
-    align-items: center;
-    
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 /*keep this black more readable*/
 footer {
