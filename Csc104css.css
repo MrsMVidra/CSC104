@@ -2,16 +2,27 @@ body {
     background-color: lightsteelblue;
     font-family: sans-serif;
 }
+
+h1 {
+    text-align: center;
+}
+/*make this a different color*/
 h2 {
     color: indigo;
+    text-align: center;
+}
+h3  {
+    align-items: center;
+    
 }
 
+/*keep this black more readable*/
 footer {
     width: 150px;
     height: 150px;
     margin: 10px;
     border: 2px solid black;
     display: flex;
-    align-items: center;
     text-align: center;
+    align-items: center;
 }
